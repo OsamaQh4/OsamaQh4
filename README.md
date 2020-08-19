@@ -15,7 +15,7 @@
 
 
 ### Tools :fire:
-|<img src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width=60> |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width=60> |
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
