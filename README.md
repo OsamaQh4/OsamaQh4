@@ -1,5 +1,5 @@
 
-## Hello Devs :wave:, 
+## Hello :wave:, 
 
 <p align="center">
   <img src="https://computerheritagegroup.org/images/945cebc6-37a9-4872-ba83-d50f26d1eacb.gif" width=100>
