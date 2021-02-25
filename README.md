@@ -5,7 +5,7 @@
   <img src="https://computerheritagegroup.org/images/945cebc6-37a9-4872-ba83-d50f26d1eacb.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://github.com/OsamaQh4/">Osama</a> currently a Third Year CE student at <a href="https://www.ksu.edu.sa/">@KSU :school: </a>. Interested in working on Front & Back End, Data analyzing, Algorithm solving, and currently trying to develop the previous skills. Occasionally I do participate in CTF challenges :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://github.com/OsamaQh4/">Osama</a> currently a Third Year CE student at <a href="https://www.ksu.edu.sa/">@KSU :school: </a>. Interested in working on Front & Back End, Data analyzing, Algorithm solving, and currently trying to develop the previous skills. Occasionally I do participate in small hackathon challenges. 
   </samp>
 </p>
 
