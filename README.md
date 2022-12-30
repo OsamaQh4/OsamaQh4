@@ -5,7 +5,7 @@
   <img src="https://computerheritagegroup.org/images/945cebc6-37a9-4872-ba83-d50f26d1eacb.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://github.com/OsamaQh4/">Osama</a> a computer engineering graduate <a href="https://www.ksu.edu.sa/">@KSU :school: </a>. Interested in working on Front & Back End, Data analyzing, AI Modeling, and currently trying to develop the previous skills. Occasionally I do participate in small hackathon challenges. 
+    I'm <a href="https://github.com/OsamaQh4/">Osama</a> a computer engineering graduate from <a href="https://www.ksu.edu.sa/">@KSU :school: </a>. Interested in working on Front & Back End, Data analyzing, AI Modeling, and currently trying to develop the previous skills. Occasionally I do participate in small hackathon challenges. 
   </samp>
 </p>
 
