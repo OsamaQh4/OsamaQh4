@@ -20,4 +20,4 @@
 
 ### Connect with me :smiley:
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=OsamaQh4.visitor-badge)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOsamaQh4%2FOsamaQh4&labelColor=%23d9e3f0&countColor=%23555555&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOsamaQh4%2FOsamaQh4)
