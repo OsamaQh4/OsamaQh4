@@ -20,4 +20,4 @@
 
 ### Connect with me :smiley:
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=OsamaQh4/OsamaQh4)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=OsamaQh4.visitor-badge)
